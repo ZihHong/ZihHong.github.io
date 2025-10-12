@@ -40,7 +40,7 @@ profiles:
     url: https://www.linkedin.com/in/zihhong-lin/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=2NfjvgMAAAAJ&hl
-  - icon: custom/researchgate
+  - icon: researchgate.svg
     url: https://www.researchgate.net/profile/Zih-Hong-Lin
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0243-5927
@@ -73,8 +73,8 @@ education:
 
       Won the Outstanding Paper Award at the 22nd Forum on Land Use Planning.
 
-  - area: BS Computer Science
-    institution: MIT
+  - area: BA Geography
+    institution: National Taiwan Normal University, Taiwan
     date_start: 2013-09-01
     date_end: 2017-06-01
     summary: |
