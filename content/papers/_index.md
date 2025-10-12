@@ -25,9 +25,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
-        publication_types:
-          - article-journal
+          - publications/journal-article
         exclude_featured: false
     design:
       view: citation
