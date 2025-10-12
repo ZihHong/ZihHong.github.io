@@ -37,8 +37,8 @@ sections:
       text: ''
       filters:
         folders:
-          - conference paper
-        types:
+          - publication
+        publication_types:
           - paper-conference
         exclude_featured: false
     design:
