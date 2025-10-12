@@ -1,6 +1,10 @@
 ---
-title: "Papers"
-type: landing 
+title: 'Experience'
+date: 2025-10-12
+type: landing
+
+design:
+  spacing: '5rem'
 
 sections:
 - block: collection
