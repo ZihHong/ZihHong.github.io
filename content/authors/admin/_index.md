@@ -40,7 +40,7 @@ profiles:
     url: https://www.linkedin.com/in/zihhong-lin/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=2NfjvgMAAAAJ&hl
-  - icon: custom-researchgate.svg
+  - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Zih-Hong-Lin
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0243-5927
