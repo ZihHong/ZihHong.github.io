@@ -25,7 +25,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications/conference-paper
+          - publications
         exclude_featured: false
     design:
       view: citation

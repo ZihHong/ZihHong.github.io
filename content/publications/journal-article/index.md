@@ -29,11 +29,12 @@ tags:
 - Green infrastructure
 - Environmental efficiency
 - Data envelopment analysis
-featured: ture
+
+featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    doi: https://doi.org/10.1016/j.jenvman.2025.126849
 
 links:
   - type: source
