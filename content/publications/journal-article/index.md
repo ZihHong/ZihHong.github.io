@@ -35,12 +35,15 @@ hugoblox:
   ids:
     arxiv: 1512.04133v1
 
+links:
+  - type: source
+    url: https://www.sciencedirect.com/science/article/pii/S0301479725028257
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Zih-Hong Lin**]'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
