@@ -39,9 +39,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
-        publication_types:
-          - paper-conference
+          - conference paper
         exclude_featured: false
     design:
       view: citation
