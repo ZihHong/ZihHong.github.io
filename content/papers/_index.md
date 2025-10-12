@@ -1,9 +1,43 @@
 ---
 title: "Papers"
-type: landing  # 若你要用 Hugo Blox 的區塊式頁面
-# 若只想要一般 markdown list page，可改為 type: page
-summary: "My research publications and papers"
-date: 2025-10-12
----
+type: landing 
 
-Here is a list of my recent publications and papers.
+sections:
+- block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  
+  
+  - block: collection
+    content:
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - publications/journal-article
+        exclude_featured: false
+    design:
+      view: citation
+
+
+  - block: collection
+    content:
+      title: Conference papers
+      text: ''
+      filters:
+        folders:
+          - publications/conference-paper
+        exclude_featured: false
+    design:
+      view: citation
+
+
+---

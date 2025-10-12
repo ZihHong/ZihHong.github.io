@@ -1,15 +1,15 @@
 ---
-title: "An example journal article"
+title: "Optimising spatial planning for green infrastructure from an environmental efficiency perspective: A case study of the Taipei basin"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Shawn W. Laffan
+- Graciela Metternicht
+
+
+date: "2025-08-20T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-08-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,44 +17,30 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Environmental Management, 393*, 126849"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Climate change has resulted in diverse risks to our environment. Green infrastructure is a strategically planned network of urban green spaces that conserve ecosystem functions and benefit people. Resource limitations mean there is a need to measure the environmental efficiency of green infrastructure to support its planning and implementation. However, previous studies on the cost-benefit analysis of green infrastructure often focus on a single benefit, potentially neglecting other co-benefits, or convert multiple benefits into monetary values, which can overlook the non-monetary value of ecosystem services. To address these research gaps, a comprehensive study integrating co-benefits and costs is needed, with a focus on environmental efficiency to yield higher benefits with lower costs. This research uses Super-efficiency slack-based measure data envelopment analysis (Super-SBM-DEA) for integrating multi-input and multi-output indices in evaluating the environmental efficiency of green infrastructure. The results indicate that among the 1415 decision-making units (DMUs), 398 are environmentally efficient. The mean efficiency score is 0.71, suggesting an overall moderate level of efficiency. The slack variable analysis identifies the required improvements for each indicator within each inefficient DMU. DMUs that are more environmentally efficient are priority areas for planning or investing in new green infrastructure, ensuring benefits are maximised while minimising costs. The model provides a comprehensive and replicable approach for prioritising future green infrastructure and developing practical strategies to enhance its efficiency.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Increasing the environmental efficiency of GI is crucial for its implementation. Out of the 1415 evaluated GI locations, 398 (28 %) are deemed efficient.
 
 tags:
-- Source Themes
+- Green infrastructure
+- Environmental efficiency
+- Data envelopment analysis
 featured: false
 
 hugoblox:
   ids:
     arxiv: 1512.04133v1
 
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Zih-Hong Lin**]'
   focal_point: ""
   preview_only: false
 
@@ -72,11 +58,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -6,17 +6,14 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Shawn W. Laffan 
+  - Graciela Metternicht
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-08-29T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-08-29T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,16 +21,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *GIScience 2025 Conference*
+publication_short: In *GIScience 2025*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Urban green spaces (UGS) offer multiple benefits to residents, including improved air quality, heat mitigation, and enhanced opportunities for exercise. For urban planners, aside from providing sufficient UGS, ensuring equitable access to these spaces is crucial for promoting environmental justice in cities. This study uses spatially explicit machine learning methods to help planners understand how socio-economic development affects equitable access to UGS and to predict the levels of equality. We investigate the potential driving factors behind UGS equality within the Taipei metropolis from 2019 to 2023. The Gini coefficient is utilised to assess equality levels of UGS access at the village level ("Li" in the local language, representing the smallest administrative unit). Spatial lagged variables are integrated into tree-based boosting models to reflect various spatial econometric specifications, allowing comparison of their performance with traditional spatial and non-spatial regression models. SHapley Additive exPlanations (SHAP) are applied to identify feature importance and explore non-linear relationships between socio-economic indicators and the calculated Gini coefficients. Results indicate that machine learning algorithms outperform traditional spatial statistical models. Furthermore, incorporating spatial lagged variables into machine learning models enhances their predictive accuracy compared to models lacking spatial consideration. The findings inform urban planners about spatial disparities in green space distribution, highlighting the need for location-specific interventions. This research supports inclusive urban green space development in Taipei, aligning with the Sustainable Development Goals, particularly target 11.7, which emphasises providing universal access to safe, inclusive, and accessible green spaces.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study applies spatial machine learning to assess and predict inequality in urban green space access across Taipei (2019–2023). Incorporating spatial lag variables improves model accuracy and reveals key socio-economic drivers, supporting equitable and sustainable urban planning aligned with SDG 11.7.
 
 tags:
-  - Large Language Models
+  - Spatially explicit machine learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,25 +40,11 @@ hugoblox:
   ids:
     doi: 10.5555/123456
 
-# Custom links
-links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Zih-Hong Lin**]'
   focal_point: ''
   preview_only: false
 
@@ -81,10 +64,3 @@ projects:
 slides: ""
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
