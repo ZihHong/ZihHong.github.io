@@ -1,13 +1,13 @@
 ---
-title: 'Experience'
+title: 'Papers'   # 如果這頁是「Papers」，可改成 'Papers'
 date: 2025-10-12
 type: landing
 
 design:
   spacing: '5rem'
 
-sections:
-- block: collection
+blocks:
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -18,8 +18,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  
-  
+
   - block: collection
     content:
       title: Publications
@@ -31,7 +30,6 @@ sections:
     design:
       view: citation
 
-
   - block: collection
     content:
       title: Conference papers
@@ -42,6 +40,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
-
 ---
