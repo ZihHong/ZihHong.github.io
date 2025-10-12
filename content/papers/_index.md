@@ -3,26 +3,17 @@ title: Papers
 summary: paper
 type: landing
 
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
-
-sections:
   - block: collection
-    id: courses
+    id: papers
     content:
-      title: Courses
+      title: Featured Publications
       filters:
-        tag: Course
-        kinds:
-          - section
+        folders:
+          - publications
+        featured_only: true
     design:
       view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+      columns: 2
+
+
 ---
