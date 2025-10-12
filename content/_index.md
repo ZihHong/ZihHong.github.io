@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-10-12
 type: landing
 
 design:
@@ -34,11 +34,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+       My research integrates spatial statistics, remote sensing, and machine learning to model how urban green infrastructure contributes to residents’ wellbeing, and to optimally allocate these spaces for enhanced ecosystem services, sustainability, and environmental efficiency. I develop data-driven approaches to evaluate and optimise the environmental performance of cities, contributing to the advancement of sustainable urban development and the UN Sustainable Development Goals (SDGs).
+       
+       Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

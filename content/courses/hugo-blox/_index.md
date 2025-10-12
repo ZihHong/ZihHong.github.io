@@ -1,25 +1,26 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
-date: 2025-09-24
+linkTitle: QGIS
+title: QGIS introduction
+date: 2017-07
 type: docs
 
 tags:
-  - Hugo Blox
+  - QGIS
   - Course
 
 content_meta:
   content_type: 'Course'
   difficulty: 'Beginner'
-  prerequisites: ['Markdown']
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+👋 Learn the basic knowlage of QGIS and spataial analysis
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+This course follows the principle of learning by doing. It introduces QGIS and related Geographic Information System (GIS) concepts in an accessible and practical way — from spatial data collection, organisation, and analysis to data visualisation. The aim is to help you master the basic applications of QGIS and apply them effectively within your own professional field.
+
+Please refer to the [空間大數據分析：GIS入門](https://hahow.in/courses/5add8e08fe4f6d001ee1b60a).
 
 ## Next
 

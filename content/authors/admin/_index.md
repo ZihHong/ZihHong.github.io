@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Zih-Hong (Joe) Lin
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zih-Hong (Joe)
+last_name: Lin
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🏙
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,66 +23,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Officer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of New South Wales 
+    url: https://www.unsw.edu.au/science/our-schools/bees/about-us/our-people/postgraduate-research-students/zi-hong-lin-grs-profile
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'zihhong.lin@unsw.edu.au'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/zihhong-lin/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=2NfjvgMAAAAJ&hl
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Zih-Hong-Lin
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-0243-5927
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - GeoAI
+  - Urban analytics
+  - Spatial statistic
+  - Green infrastructure
+  - Resilience
+  - Environmental Management
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Environmental Management
+    institution: University of New South Wales, Australia
+    date_start: 2022-02
+    date_end: 2025-10
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Research focus: urban planning, green infrastructure, environmental efficiency, spatial analysis and statistics, machine learning, environmental modelling, SDGs
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      url: ''
 
-      Specialized in machine learning and robotics.
+  - area: MS Urban Planning
+    institution: National Cheng Kung University, Taiwan
+    date_start: 2017-07
+    date_end: 2019-07
+    summary: |
+      GPA: 4.02/4.3
+
+      Won the Outstanding Paper Award at the 22nd Forum on Land Use Planning.
+
   - area: BS Computer Science
     institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2013-09
+    date_end: 2017-06
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.77/4.3
 
-      Minored in Mathematics. President of AI Club.
+      Completed The Program of Geospatial Information Science and The Program of Environment Monitoring and Disaster Mitigation
+
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: Research Officer
+    company_name: Universoty of New South Wales
     company_url: 'https://ai.meta.com/'
     company_logo: ''
     date_start: 2020-01-01
@@ -103,67 +106,48 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: GIS
+        description: 'ArcGIS, QGIS, Remote sensing'
         percent: 95
-        icon: code-bracket
+        icon: map
       - name: Machine Learning
-        description: ''
+        description: 'Python, PyTorch'
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+        icon: code-bracket
+      - name: Environmental modelling
+        description: 'InVEST, SWAT'
         percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: square-3-stack-3d
+
 
 languages:
   - name: English
+    percent: 90
+  - name: Mandarin
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Esri Young Scholar Award 
+    url: https://esriaustralia.com.au/profile/zih-hong-lin
+    date: '2023-04'
+    awarder: Esri Australia
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+       Zih-Hong was presented with the 2023 Esri Young Scholar Award in recognition of his project “Towards Urban Green Equity in Australia – Developing Australia’s Urban Green Space Equality Dashboard”. 
+
+  - title: 2019 Government Study Abroad Scholarship for PhD
+    url: 
+    date: '2019-12'
+    awarder: Ministry of Education, Taiwan
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Support PhD tuition fees (140,000 AUD) and living stipend (98,000 AUD) across 3 years.
+
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Zih-Hong (Joe) Lin is a PhD candidate in Environmental Management at the University of New South Wales with expertise in urban planning, geospatial analytics, and environmental efficiency modelling. His research integrates machine learning, spatial statistics, and remote sensing to advance sustainable urban development and green infrastructure planning.
