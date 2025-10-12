@@ -14,9 +14,8 @@ sections:
           - publications
         featured_only: true
     design:
-      view: article-grid
+      view: card
       columns: 2
-      width: full
 
   - block: collection
     content:
@@ -25,9 +24,20 @@ sections:
       filters:
         folders:
           - publications/journal-article
+        exclude_featured: false
     design:
       view: citation
 
+  - block: collection
+    content:
+      title: Conference paper
+      text: ''
+      filters:
+        folders:
+          - publications/conference-paper
+        exclude_featured: false
+    design:
+      view: citation
 
 
 ---
