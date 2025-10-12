@@ -16,17 +16,8 @@ sections:
     design:
       view: card
       columns: 2
+      
 
-  - block: collection
-    content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications/journal-article
-        exclude_featured: false
-    design:
-      view: citation
 
   - block: collection
     content:
