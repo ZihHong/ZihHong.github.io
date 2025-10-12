@@ -3,6 +3,8 @@ title: Papers
 summary: paper
 type: landing
 
+
+sections:
   - block: collection
     id: papers
     content:
