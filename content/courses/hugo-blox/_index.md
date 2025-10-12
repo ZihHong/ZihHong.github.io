@@ -1,7 +1,7 @@
 ---
 linkTitle: QGIS
 title: QGIS introduction
-date: 2017-07
+date: 2017-07-01
 type: docs
 
 tags:

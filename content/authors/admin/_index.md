@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Environmental Management
     institution: University of New South Wales, Australia
-    date_start: 2022-02
-    date_end: 2025-10
+    date_start: 2022-02-01
+    date_end: 2025-10-01
     summary: |
       Research focus: urban planning, green infrastructure, environmental efficiency, spatial analysis and statistics, machine learning, environmental modelling, SDGs
     button:
@@ -66,8 +66,8 @@ education:
 
   - area: MS Urban Planning
     institution: National Cheng Kung University, Taiwan
-    date_start: 2017-07
-    date_end: 2019-07
+    date_start: 2017-07-01
+    date_end: 2019-07-01
     summary: |
       GPA: 4.02/4.3
 
@@ -75,8 +75,8 @@ education:
 
   - area: BS Computer Science
     institution: MIT
-    date_start: 2013-09
-    date_end: 2017-06
+    date_start: 2013-09-01
+    date_end: 2017-06-01
     summary: |
       GPA: 3.77/4.3
 
@@ -88,7 +88,7 @@ work:
     company_name: Universoty of New South Wales
     company_url: 'https://ai.meta.com/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-01-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
@@ -133,7 +133,7 @@ languages:
 awards:
   - title: Esri Young Scholar Award 
     url: https://esriaustralia.com.au/profile/zih-hong-lin
-    date: '2023-04'
+    date: '2023-04-01'
     awarder: Esri Australia
     icon: hero/trophy
     summary: |
@@ -141,7 +141,7 @@ awards:
 
   - title: 2019 Government Study Abroad Scholarship for PhD
     url: 
-    date: '2019-12'
+    date: '2019-12-01'
     awarder: Ministry of Education, Taiwan
     icon: hero/currency-dollar
     summary: |
