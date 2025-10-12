@@ -26,6 +26,7 @@ sections:
       filters:
         folders:
           - publications/journal-article
+        recursive: false 
         exclude_featured: false
     design:
       view: citation
