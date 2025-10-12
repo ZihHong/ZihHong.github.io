@@ -1,43 +1,28 @@
 ---
-title: 'Papers'   # 如果這頁是「Papers」，可改成 'Papers'
-date: 2025-10-12
+title: Papers
+summary: paper
 type: landing
 
-design:
-  spacing: '5rem'
+cascade:
+  - target:
+      path: '{/courses/*/**}'
+    type: docs
+    params:
+      show_breadcrumb: true
 
-blocks:
+sections:
   - block: collection
-    id: papers
+    id: courses
     content:
-      title: Featured Publications
+      title: Courses
       filters:
-        folders:
-          - publications
-        featured_only: true
+        tag: Course
+        kinds:
+          - section
     design:
       view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications/journal-article
-        exclude_featured: false
-    design:
-      view: citation
-
-  - block: collection
-    content:
-      title: Conference papers
-      text: ''
-      filters:
-        folders:
-          - publications/conference-paper
-        exclude_featured: false
-    design:
-      view: citation
+      show_read_time: false
+      show_date: false
+      show_read_more: false
+      columns: 1
 ---
