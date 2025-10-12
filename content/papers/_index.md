@@ -20,6 +20,17 @@ sections:
       padding: ['20px', '0', '20px', '0']
       
 
+  - block: collection
+    content:
+      title: Conference paper
+      text: ''
+      filters:
+        folders:
+          - publications/journal-article
+        exclude_featured: false
+    design:
+      view: citation
+
 
   - block: collection
     content:
@@ -27,7 +38,7 @@ sections:
       text: ''
       filters:
         folders:
-          - conference-paper
+          - publications/conference-paper
         exclude_featured: false
     design:
       view: citation
