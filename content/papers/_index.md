@@ -16,6 +16,8 @@ sections:
     design:
       view: card
       columns: 2
+      spacing:
+      padding: ['20px', '0', '20px', '0']
       
 
 
@@ -25,7 +27,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - conference-paper
         exclude_featured: false
     design:
       view: citation
