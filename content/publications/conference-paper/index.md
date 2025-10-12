@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Spatially explicit machine learning for assessing equality in urban green space accessibility'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
