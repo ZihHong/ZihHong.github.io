@@ -4,6 +4,7 @@ summary: paper
 type: landing
 
 
+
 sections:
   - block: collection
     id: papers
@@ -21,12 +22,11 @@ sections:
 
   - block: collection
     content:
-      title: Journal publications
+      title: Publications
       text: ''
       filters:
         folders:
-          - publications/journal-article
-        recursive: false 
+          - publications
         exclude_featured: false
     design:
       view: citation
@@ -38,7 +38,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
+          - publications
         publication_types:
           - paper-conference
         exclude_featured: false
