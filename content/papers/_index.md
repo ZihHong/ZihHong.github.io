@@ -15,18 +15,19 @@ sections:
         featured_only: true
     design:
       view: card
-      columns: 2
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+      columns: 1
+
       
 
   - block: collection
     content:
-      title: Conference paper
+      title: Journal publications
       text: ''
       filters:
         folders:
-          - publications/journal-article
+          - publications
+        publication_types:
+          - article-journal
         exclude_featured: false
     design:
       view: citation
@@ -38,7 +39,9 @@ sections:
       text: ''
       filters:
         folders:
-          - publications/conference-paper
+          - publications
+        publication_types:
+          - paper-conference
         exclude_featured: false
     design:
       view: citation
