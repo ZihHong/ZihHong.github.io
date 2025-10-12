@@ -38,6 +38,8 @@ sections:
       filters:
         folders:
           - conference paper
+        types:
+          - paper-conference
         exclude_featured: false
     design:
       view: citation
