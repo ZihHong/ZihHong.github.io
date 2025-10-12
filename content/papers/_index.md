@@ -16,6 +16,18 @@ sections:
     design:
       view: article-grid
       columns: 2
+      width: full
+
+  - block: collection
+    content:
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - publications/journal-article
+    design:
+      view: citation
+
 
 
 ---

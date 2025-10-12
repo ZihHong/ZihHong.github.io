@@ -29,7 +29,7 @@ tags:
 - Green infrastructure
 - Environmental efficiency
 - Data envelopment analysis
-featured: false
+featured: ture
 
 hugoblox:
   ids:
