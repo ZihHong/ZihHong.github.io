@@ -40,7 +40,7 @@ profiles:
     url: https://www.linkedin.com/in/zihhong-lin/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=2NfjvgMAAAAJ&hl
-  - icon: researchgate.svg
+  - icon: icon-hero-researchgate.svg
     url: https://www.researchgate.net/profile/Zih-Hong-Lin
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0243-5927
@@ -85,21 +85,22 @@ education:
 
 work:
   - position: Research Officer
-    company_name: Universoty of New South Wales
-    company_url: 'https://ai.meta.com/'
+    company_name: School of Education, University of New South Wales
+    company_url: ''
     company_logo: ''
-    date_start: 2025-01-01
+    date_start: 2025-06-30
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Conducted Housing Affordability and the Teacher Shortage research program.
+
+  - position: Research Assistant
+    company_name: Department of Urban Development, University of Taipei
+    company_url: ''
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-02-01
+    date_end: 2025-06-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Analysed gentrification using traditional statistic models and machine learning. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
