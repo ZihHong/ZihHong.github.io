@@ -40,7 +40,7 @@ profiles:
     url: https://www.linkedin.com/in/zihhong-lin/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=2NfjvgMAAAAJ&hl
-  - icon: custom/researchgate.svg
+  - icon: "custom/researchgate"
     url: https://www.researchgate.net/profile/Zih-Hong-Lin
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0243-5927
@@ -62,7 +62,7 @@ education:
       Research focus: urban planning, green infrastructure, environmental efficiency, spatial analysis and statistics, machine learning, environmental modelling, SDGs
     button:
       text: 'Read Thesis'
-      url: ''
+      url: 'http://hdl.handle.net/1959.4/106089'
 
   - area: MS Urban Planning
     institution: National Cheng Kung University, Taiwan
@@ -72,6 +72,10 @@ education:
       GPA: 4.02/4.3
 
       Won the Outstanding Paper Award at the 22nd Forum on Land Use Planning.
+    button:
+      text: 'Read Thesis'
+      url: ''
+
 
   - area: BA Geography
     institution: National Taiwan Normal University, Taiwan
