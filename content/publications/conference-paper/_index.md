@@ -9,7 +9,7 @@ view: citation
 cascade:
   publication_types
     - paper-conference
-  type: "paper-conference"
+type: "paper-conference"
 
 
 # Optional header image (relative to `static/media/` folder).
